@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 ### 📝 Sobre
 <p align="justify">
 Me chamo Maurício Porfírio, me formei recentemente em Sistemas de Informação (:computer:) 2020.1 presencial, no Centro Universitário Estácio do Ceará - Unidade Moreira Campos, sou do Brasil (🇧🇷), moro atualmente no estado do Ceará na cidade de Cascavel. Trabalho remotamente como desenvolvedor React desde o ínicio de 2020. Atualmente estou aprimorando meus conhecimentos em React, Typescript, Node.JS e React-Native e aprendendo Redux e Next.JS.
-
-Gosto de caminhar no final da tarde (:running:), amo assistir (🎞️) e marotonar séries e animes (📺), curto ler mangás (:books:), amo desenvolver ouvindo música (🎵),
-estou sempre buscando me atualizar com novas tecnologias que englobam o universo do JavaScript (:alien:), sou apaixonado por colecionar card games, como: Yu-Gi-Oh! (:flower_playing_cards:).
 </p>
 
 ### :rocket: Tecnologias

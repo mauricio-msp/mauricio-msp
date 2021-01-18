@@ -28,6 +28,7 @@ Me chamo Maurício Porfírio, me formei recentemente em Sistemas de Informação
   -  [MySQL](https://www.mysql.com/)
   -  [PostgreSQL](https://www.postgresql.org/)
   -  [SQLite](https://www.sqlite.org/index.html)
+  -  [MongoDB](https://docs.mongodb.com/manual/l)
 - ### **Back-end**
   -  [Node.js](https://nodejs.org/en/)
   -  [Express](https://expressjs.com/)

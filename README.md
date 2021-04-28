@@ -36,6 +36,7 @@ Me chamo Maurício Porfírio, me formei recentemente em Sistemas de Informação
 - ### **Front-end**
   -  [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
   -  [CSS Advanced](https://www.w3schools.com/css/)
+  -  [SASS](https://sass-lang.com/)
   -  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
   -  [ReactJS](https://reactjs.org/)
 - ### **Mobile**
@@ -45,7 +46,6 @@ Me chamo Maurício Porfírio, me formei recentemente em Sistemas de Informação
   -  [Styled-Components](https://styled-components.com/)
   -  [Typescript](https://www.typescriptlang.org/)
   -  [Knex.JS](http://knexjs.org/)
-  -  [Redux](https://redux.js.org/) (em progesso)
-  -  [Next.JS](https://nextjs.org/docs/basic-features/typescript) (em progesso)
+  -  [Next.JS](https://nextjs.org/docs/basic-features/typescript)
 
 

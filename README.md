@@ -13,37 +13,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, Eu sou Maurício Porfírio 👋
+# Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, I'm Maurício Porfírio
 
-## Desenvolvedor Front-end
+- 🔥 Developer Front-End Junior
 
-### 📝 Sobre
-<p align="justify">
-Me chamo Maurício Porfírio, me formei recentemente em Sistemas de Informação (:computer:) 2020.1 presencial, no Centro Universitário Estácio do Ceará - Unidade Moreira Campos, sou do Brasil (🇧🇷), moro atualmente no estado do Ceará na cidade de Cascavel. Trabalho remotamente como desenvolvedor React desde o ínicio de 2020. Atualmente estou aprimorando meus conhecimentos em React, Typescript, Next.JS, Node.JS e React-Native.
-</p>
+- 🌱 I’m currently learning AWS
 
-### :rocket: Tecnologias
+- 🔭 I'm currently working on [Gofind](http://www.gofind.online/)
 
-- ### **Database**
-  -  [MySQL](https://www.mysql.com/)
-  -  [PostgreSQL](https://www.postgresql.org/)
-  -  [SQLite](https://www.sqlite.org/index.html)
-  -  [MongoDB](https://docs.mongodb.com/manual/l)
-- ### **Back-end**
-  -  [Node.js](https://nodejs.org/en/)
-  -  [Express](https://expressjs.com/)
-  -  [Knex.JS](http://knexjs.org/)
-  -  [API Rest](https://canaltech.com.br/software/o-que-e-api/#:~:text=API%20%C3%A9%20um%20conjunto%20de,Interface%20de%20Programa%C3%A7%C3%A3o%20de%20Aplicativos%22.)
-- ### **Front-end**
-  -  [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-  -  [CSS Advanced](https://www.w3schools.com/css/)
-  -  [SASS](https://sass-lang.com/)
-  -  [Styled-Components](https://styled-components.com/)
-  -  [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
-  -  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
-  -  [Typescript](https://www.typescriptlang.org/)
-  -  [ReactJS](https://reactjs.org/)
-  -  [Next.JS](https://nextjs.org/)
-- ### **Mobile**
-  -  [React Native](https://reactnative.dev/)
-  -  [Expo](https://expo.io/)
+- 💬 Ask me about **Javascript, HTML, CSS, Node.JS, React**
+
+- ⚡ Fun fact **crazy for code :grimacing:**
+
+## 🛠️ Tech Stack
+
+![HTML](https://shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
+![CSS](https://shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass)&nbsp;
+![JAVASCRIPT](https://shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TYPESCRIPT](https://shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![NODE.JS](https://shields.io/badge/-Node.JS-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![BABEL](https://shields.io/badge/-BABEL-05122A?style=for-the-badge&logo=babel)&nbsp;
+![WEBPACK](https://shields.io/badge/-Webpack-05122A?style=for-the-badge&logo=webpack)&nbsp;
+![REACT](https://shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![REDUX](https://shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=593D88)&nbsp;
+![NEXT.JS](https://img.shields.io/badge/next.js-05122A?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![STYLED-COMPONENTS](https://shields.io/badge/-STYLED--COMPONENTS-05122A?style=for-the-badge&logo=styled-components)&nbsp;
+![ANT DESIGN](https://shields.io/badge/-ANT%20DESIGN-05122A?style=for-the-badge&logo=antdesign&logoColor=1890FF)&nbsp;
+![MUI](https://shields.io/badge/-MUI-05122A?style=for-the-badge&logo=mui)&nbsp;
+![GIT](https://shields.io/badge/-GIT-05122A?style=for-the-badge&logo=git)&nbsp;
+![GITHUB](https://shields.io/badge/-GITHUB-05122A?style=for-the-badge&logo=github)&nbsp;
+![VSCODE](https://shields.io/badge/-VSCODE-05122A?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)&nbsp;
+
+## ⚙️ GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=mauricio-msp&show_icons=true&theme=algolia" alt="mauricioporfirio's stats" />

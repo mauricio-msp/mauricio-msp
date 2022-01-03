@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning AWS
 
-- 🔭 I'm currently working on [Gofind](http://www.gofind.online/)
+- 🔭 I'm currently working at [Gofind](http://www.gofind.online/)
 
 - 💬 Ask me about **Javascript, HTML, CSS, Node.JS, React**
 

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **crazy for code :grimacing:**
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/VGFbzDk8) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VGFbzDk8) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mauricioporfirio_mp) 
 
 ## 🛠️ Tech Stack

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔥 Developer Front-End Junior
 
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Go
 
 - 🔭 I'm currently working at [Gofind](http://www.gofind.online/)
 

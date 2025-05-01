@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, I'm Maurício Porfírio
 
-- 🔥 Developer Front-End Junior
+- 🔥 Developer Front-End Pleno
 
 - 🌱 I’m currently learning Go
 
